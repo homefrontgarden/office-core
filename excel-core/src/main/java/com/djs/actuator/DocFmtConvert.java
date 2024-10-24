@@ -1,13 +1,13 @@
 package com.djs.actuator;
 
 
+import com.jacob.com.Variant;
 import com.jacob.activeX.ActiveXComponent;
 import com.jacob.com.ComThread;
 import com.jacob.com.Dispatch;
-import com.jacob.com.Variant;
+
 import java.io.File;
-import java.io.FileOutputStream;
-import java.io.OutputStream;
+
 
 
 // 格式大全:前缀对应以下方法的fmt值
